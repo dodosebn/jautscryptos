@@ -1,2 +1,2 @@
 # jautscryptos
-this  is a cloned crypto registration
+This is a cloned crypto Registration form
